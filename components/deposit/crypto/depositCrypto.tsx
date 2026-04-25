@@ -1,4 +1,4 @@
-import { DocumentDuplicateIcon } from '@heroicons/react/24/outline';
+import { DocumentDuplicateIcon } from '@heroicons/react/24/outline';https://github.com/nurmandev/999new/issues/1#issue-4326480300
 import { InfoCircle } from 'iconsax-react';
 import { useQRCode } from 'next-qrcode';
 import { useMemo, useState } from 'react';
